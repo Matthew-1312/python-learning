@@ -9,7 +9,7 @@ Each folder/file = one day of the course.
       
 ## Tech
 
-- Python 3.x
+- Python 3.14.4
 - PyCharm
 
 ## About
