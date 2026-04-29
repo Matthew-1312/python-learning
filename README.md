@@ -1,6 +1,6 @@
 # Python Learning
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.4-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Course](https://img.shields.io/badge/Course-100%20Days%20of%20Code-green)
 
@@ -20,7 +20,7 @@ Each file = one day of the course.
 
 ## Tech Stack
 
-- **Python** 3.12
+- **Python** 3.14.4
 - **IDE:** PyCharm Community Edition
 - **OS:** Windows
 
