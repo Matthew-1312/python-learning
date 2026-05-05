@@ -14,7 +14,7 @@ Each file = one day of the course.
 - [x] Day 1 — Band Name Generator
 - [x] Day 2 — Tip Calculator
 - [x] Day 3 — Treasure Island
-- [ ] Day 4 — Rock Paper Scissors
+- [x] Day 4 — Rock Paper Scissors
 - [ ] Day 5 — Password Generator
 - [ ] ...
 
