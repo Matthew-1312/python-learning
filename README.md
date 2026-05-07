@@ -15,7 +15,7 @@ Each file = one day of the course.
 - [x] Day 2 — Tip Calculator
 - [x] Day 3 — Treasure Island
 - [x] Day 4 — Rock Paper Scissors
-- [ ] Day 5 — Password Generator
+- [x] Day 5 — Password Generator
 - [ ] ...
 
 ## Tech Stack
